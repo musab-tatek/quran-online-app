@@ -1,4 +1,4 @@
-# quran-online
+# Quran Online App
 
 ## Build Setup
 
